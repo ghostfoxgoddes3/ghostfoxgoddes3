@@ -1,4 +1,4 @@
-## "HELLO THERE!" (KENOBI, Obi-Wan. 2005) 🖖
+"HELLO THERE!" (KENOBI, Obi-Wan. 2005) 🖖
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghostfoxgoddes3/ghostfoxgoddes3/output/github-contribution-grid-snake-dark.svg">
